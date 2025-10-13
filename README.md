@@ -32,11 +32,11 @@ The SRS defines and describes UQU Maps' capabilities to address campus navigatio
 - **Professors**: Share office hours and teaching locations  
 - **Business Owners**: Increase visibility of campus services and offerings  
 
+## Standards Compliance
+This SRS document is prepared in compliance with **IEEE Standard 830-1998** for software requirements specifications.
+
 ## Notes
 This repository serves as a **portfolio entry** showcasing the SRS for an academic project in Software Engineering at Umm Al-Qura University.
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE) – see the LICENSE file for details.
-
-
