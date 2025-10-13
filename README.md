@@ -34,3 +34,8 @@ The SRS defines and describes UQU Maps' capabilities to address campus navigatio
 
 ## Notes
 This repository serves as a **portfolio entry** showcasing the SRS for an academic project in Software Engineering at Umm Al-Qura University.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE) – see the LICENSE file for details.
+
