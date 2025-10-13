@@ -37,5 +37,6 @@ This repository serves as a **portfolio entry** showcasing the SRS for an academ
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE) – see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE file for details.
+
 
